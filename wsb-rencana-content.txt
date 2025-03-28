@@ -3,7 +3,10 @@ RENCANA KONTEN WSB
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
 - Struktur data dasar
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
+- Phython
