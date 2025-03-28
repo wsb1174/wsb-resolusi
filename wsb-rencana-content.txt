@@ -1,6 +1,8 @@
 RENCANA KONTEN WSB
 
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Frameworks
 - Interview
 - Vlogs
